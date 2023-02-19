@@ -1,0 +1,25 @@
+.card {
+    border-radius: 20px;
+    background-color: #E9CF6A;
+    min-height: 197px;
+    width:250px;
+    position:relative;
+}
+
+.card h2 {
+    padding-top: 0.5rem;
+    font-size: 1.8rem;
+    min-height: 45px;
+}
+
+.card p {
+    margin: 0 25px 25px 25px;
+    font-size: 1.2rem;
+}
+
+img {
+    width:200px;
+    height:143px;
+    margin: 25px 25px 0 25px;
+    border-radius: 10px;
+}
